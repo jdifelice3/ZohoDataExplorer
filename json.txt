@@ -1,0 +1,9 @@
+     [
+       {
+         "physicalPath": "site\\wwwroot\\client",
+         "preloadEnabled": false,
+         "virtualDirectories": null,
+         "virtualPath": "/"
+       }
+     ]
+     

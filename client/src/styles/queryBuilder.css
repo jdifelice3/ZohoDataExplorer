@@ -1,0 +1,36 @@
+.queryBuilder {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 10pt;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    border-radius: 0.5rem;
+  }
+  
+  .queryBuilder .ruleGroup {
+    font-size: 10pt;
+    border-left: 3px solid #007bff;
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+  }
+  
+  .queryBuilder .rule {
+    font-size: 10pt;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .advancedFilter {
+    font-size: 10pt;
+  }
+
+  .advancedFilterContainer {
+    text-align: left;
+    vertical-align: middle;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 7px;
+  }
+  
